@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delaunay on StataViz</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/tags/delaunay/</link>
+    <description>Recent content in delaunay on StataViz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/delaunay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dali as Delaunay triangles</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-1/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Dali as Voronoi tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-2/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Mona Lisa as Delaunay triangles</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-3/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Mona Lisa as Voronoi tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-4/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Random tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-5/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Random tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-6/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Distance to the nearest public bathroom in Vienna</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

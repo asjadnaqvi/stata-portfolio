@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StataViz</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/</link>
+    <description>Recent content on StataViz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alluvial plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/alluvial-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/alluvial-1/</guid>
+      <description>Created using the alluvial package
+ssc install alluvial, replace For more info visit the stata-alluvial GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Alluvial plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/alluvial-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/alluvial-2/</guid>
+      <description>Created using the alluvial package
+ssc install alluvial, replace For more info visit the stata-alluvial GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Alluvial plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/alluvial-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/alluvial-3/</guid>
+      <description>Created using the alluvial package
+ssc install alluvial, replace For more info visit the stata-alluvial GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-1/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-2/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-3/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-1/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-2/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-3/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-4/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-5/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-6/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-7/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circlepack</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlepack-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlepack-8/</guid>
+      <description>Created using the circlepack package
+ssc install circlepack, replace For more info visit the stata-circlepack GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circular bar graphs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlebar-1/</guid>
+      <description>Created using the circlebar package
+ssc install circlebar, replace For more info visit the stata-circlebar GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Dali as Delaunay triangles</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-1/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Dali as Voronoi tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-2/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German elections 2021</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guilloche patterns</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-1/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-2/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-3/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-4/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Mona Lisa as Delaunay triangles</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-3/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Mona Lisa as Voronoi tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-4/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Random tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-5/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Random tessellations</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/delaunay-6/</guid>
+      <description>Created using the delaunay package
+ssc install delaunay, replace For more info visit the stata-delaunay GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-1/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-2/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-3/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-4/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>spider</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/spider-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/spider-1/</guid>
+      <description>Created using the spider package
+ssc install spider, replace For more info visit the stata-spider GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>streamplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-3/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>streamplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-4/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circular bar graphs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlebar-2/</guid>
+      <description>Created using the circlebar package
+ssc install circlebar, replace For more info visit the stata-circlebar GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circular bar graphs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlebar-3/</guid>
+      <description>Created using the circlebar package
+ssc install circlebar, replace For more info visit the stata-circlebar GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Circular bar graphs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/circlebar-4/</guid>
+      <description>Created using the circlebar package
+ssc install circlebar, replace For more info visit the stata-circlebar GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dubois Challenge</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/dubois-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/dubois-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guilloche patterns</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polar plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spider</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/spider-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/spider-2/</guid>
+      <description>Created using the spider package
+ssc install spider, replace For more info visit the stata-spider GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>spider</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/spider-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/spider-3/</guid>
+      <description>Created using the spider package
+ssc install spider, replace For more info visit the stata-spider GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Spirographs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spirographs</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streamplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-1/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>streamplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-2/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-10/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-10/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-11/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-11/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-2/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-3/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-4/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-5/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-6/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-7/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-8/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-9/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-9/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Vienna&#39;s lifelines - public transport</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-3/</guid>
+      <description>Made for the #30DayMapChallenge 2022.</description>
+    </item>
+    
+    <item>
+      <title>Wind farms in Europe</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance to the nearest public bathroom in Vienna</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/treemap-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-1/</guid>
+      <description>Created using the treemap package
+ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Global stock of CO2 emissions</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social connectivity index</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social connectivity index</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-6_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-6_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social connectivity index</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-6_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-6_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate of depletion of ground water</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poopy waters</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-9/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population of Latin America at weighted dots</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-10/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population of Latin America at ASCII chars</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-11/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italy - Population vs Elevation</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-12/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antractica</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-13/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban fabric of Berlin</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-14/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban fabric of Vienna</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-14_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-14_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-15/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-15/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-16/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-16/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-17/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-17/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-18/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-18/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-19/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-19/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-20/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-20/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the package:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Map clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-21/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-21/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-22/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-22/</guid>
+      <description>Created using the bimap package
+ssc install bimap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-23/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-23/</guid>
+      <description>Created using the bimap package
+ssc install bimap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-24/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-24/</guid>
+      <description>Created using the bimap package
+ssc install bimap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-25/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-25/</guid>
+      <description>Created using the bimap package
+ssc install bimap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-26/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-26/</guid>
+      <description>Created using the bimap package
+ssc install bimap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Bi-variate map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-28/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-28/</guid>
+      <description>Created using the bimap and spmap packages
+Install the packages:
+ssc install bimap, replacessc install spmap, replace For more info visit the stata-bimap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Polyline clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-27/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-27/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Polyline clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-27_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-27_1/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Polyline clipping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-27_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-27_2/</guid>
+      <description>Created using the clipgeo and spmap packages
+Install the packages:
+ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>404</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/about/</guid>
+      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.This is demo site for Eternity theme. All images are taken from Unsplash.Features Configurable features.
+Multiple images support.
+Clean, fresh, minimalist.
+Integrated lazy load.
+Automaticly creates resized thumbnails.
+Shows exif if it exists.
+Installation Install Hugo.
+Create a new site.
+hugo new site yoursite cd yoursite Remove default config file.
+rm config.toml Submodule the theme.</description>
+    </item>
+    
+  </channel>
+</rss>

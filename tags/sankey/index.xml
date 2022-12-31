@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sankey on StataViz</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/tags/sankey/</link>
+    <description>Recent content in sankey on StataViz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/sankey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-1/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-2/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-3/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sankey</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sankey-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sankey-4/</guid>
+      <description>Created using the sankey package
+Install the package:
+ssc install sankey, replace For more info visit the stata-sankey GitHub page.</description>
+    </item>
+    
+  </channel>
+</rss>
