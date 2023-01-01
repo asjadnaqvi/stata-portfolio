@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tags on StataViz</title>
+    <title>tags on StataViz by Asjad Naqvi</title>
     <link>https://asjadnaqvi.github.io/stata-portfolio/tags/</link>
-    <description>Recent content in tags on StataViz</description>
+    <description>Recent content in tags on StataViz by Asjad Naqvi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -21,6 +21,15 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/arcplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bar</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/bar/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/bar/</guid>
       <description></description>
     </item>
     
@@ -70,6 +79,24 @@
     </item>
     
     <item>
+      <title>heart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/heart/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/heart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/heatplot/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/heatplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hierarchy</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/tags/hierarchy/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -97,6 +124,42 @@
     </item>
     
     <item>
+      <title>marimekko</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/marimekko/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/marimekko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mosaic</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/mosaic/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/mosaic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSM</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/osm/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/osm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parametric</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/parametric/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/parametric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>polar</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/tags/polar/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -111,6 +174,15 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QGIS</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/qgis/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/qgis/</guid>
       <description></description>
     </item>
     
@@ -142,11 +214,38 @@
     </item>
     
     <item>
+      <title>stacked area</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/stacked-area/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/stacked-area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>streamplot</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/tags/streamplot/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/streamplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/sunburst/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/sunburst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tilemap</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/tilemap/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/tilemap/</guid>
       <description></description>
     </item>
     
@@ -165,6 +264,15 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/voronoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/tags/waffle-chart/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/tags/waffle-chart/</guid>
       <description></description>
     </item>
     

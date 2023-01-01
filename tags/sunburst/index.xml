@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sunburst on StataViz by Asjad Naqvi</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/tags/sunburst/</link>
+    <description>Recent content in sunburst on StataViz by Asjad Naqvi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/sunburst/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+  </channel>
+</rss>

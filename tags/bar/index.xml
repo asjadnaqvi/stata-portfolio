@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bar on StataViz by Asjad Naqvi</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/tags/bar/</link>
+    <description>Recent content in bar on StataViz by Asjad Naqvi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/bar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-15/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-16/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-17/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>random on StataViz</title>
+    <title>random on StataViz by Asjad Naqvi</title>
     <link>https://asjadnaqvi.github.io/stata-portfolio/tags/random/</link>
-    <description>Recent content in random on StataViz</description>
+    <description>Recent content in random on StataViz by Asjad Naqvi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -48,6 +48,195 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/random-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snake plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-19/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-20/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-21/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-22/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-23/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-24/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polar graph of weekly deaths</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-9/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florence Nightingale Rose Coxcomb plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-11/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiral text wrapping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-10/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-12/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-13/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-14/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-15/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-16/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-17/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18_2/</guid>
       <description></description>
     </item>
     

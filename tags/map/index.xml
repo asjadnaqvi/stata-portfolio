@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>map on StataViz</title>
+    <title>map on StataViz by Asjad Naqvi</title>
     <link>https://asjadnaqvi.github.io/stata-portfolio/tags/map/</link>
-    <description>Recent content in map on StataViz</description>
+    <description>Recent content in map on StataViz by Asjad Naqvi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/map/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,6 +12,24 @@
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-31/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-32/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-32/</guid>
       <description></description>
     </item>
     
@@ -319,6 +337,127 @@ ssc install clipgeo, replacessc install spmap, replace For more info visit the 
       <description>Created using the clipgeo and spmap packages
 Install the packages:
 ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_1/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_2/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_3/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_4/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_5/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_1/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_2/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_3/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_4/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
     </item>
     
   </channel>

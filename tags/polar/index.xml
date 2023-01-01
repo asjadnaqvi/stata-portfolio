@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polar on StataViz</title>
+    <title>polar on StataViz by Asjad Naqvi</title>
     <link>https://asjadnaqvi.github.io/stata-portfolio/tags/polar/</link>
-    <description>Recent content in polar on StataViz</description>
+    <description>Recent content in polar on StataViz by Asjad Naqvi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/polar/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -137,6 +137,86 @@ ssc install spider, replace For more info visit the stata-spider GitHub page.</d
     </item>
     
     <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-4/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-5/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-6/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
       <title>Circular bar graphs</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-2/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -193,6 +273,69 @@ ssc install spider, replace For more info visit the stata-spider GitHub page.</d
       <guid>https://asjadnaqvi.github.io/stata-portfolio/spider-3/</guid>
       <description>Created using the spider package
 ssc install spider, replace For more info visit the stata-spider GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Snake plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polar graph of weekly deaths</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-9/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florence Nightingale Rose Coxcomb plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-11/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiral text wrapping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-10/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-15/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-16/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-17/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-17/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on StataViz</title>
+    <title>about on StataViz by Asjad Naqvi</title>
     <link>https://asjadnaqvi.github.io/stata-portfolio/about/</link>
-    <description>Recent content in about on StataViz</description>
+    <description>Recent content in about on StataViz by Asjad Naqvi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -358,6 +358,86 @@ ssc install streamplot, replace For more info visit the stata-streamplot GitHub 
     </item>
     
     <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-1/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-2/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-3/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-4/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>sunburst</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/sunburst-5/</guid>
+      <description>Created using the sunburst package
+ssc install sunburst, replace For more info visit the stata-sunburst GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-4/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-5/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Arc plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/arcplot-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/arcplot-6/</guid>
+      <description>Created using the arcplot package
+ssc install arcplot, replace For more info visit the stata-arcplot GitHub page.</description>
+    </item>
+    
+    <item>
       <title>Circular bar graphs</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/circlebar-2/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -438,6 +518,24 @@ ssc install circlebar, replace For more info visit the stata-circlebar GitHub pa
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/random-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-31/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-32/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-32/</guid>
       <description></description>
     </item>
     
@@ -627,11 +725,92 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>Snake plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distance to the nearest public bathroom in Vienna</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-19/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-20/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-21/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-22/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-23/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-24/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-8/</guid>
       <description></description>
     </item>
     
@@ -643,6 +822,15 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
       <guid>https://asjadnaqvi.github.io/stata-portfolio/treemap-1/</guid>
       <description>Created using the treemap package
 ssc install treemap, replace For more info visit the stata-treemap GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Polar graph of weekly deaths</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-9/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-9/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -682,11 +870,29 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>Florence Nightingale Rose Coxcomb plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-11/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rate of depletion of ground water</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/maps-8/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiral text wrapping</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-10/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-10/</guid>
       <description></description>
     </item>
     
@@ -700,11 +906,92 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-12/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-13/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waffle chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-14/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Population of Latin America at weighted dots</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/maps-10/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-15/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-16/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial bar chart</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-17/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mosaic plot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-18_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-18_2/</guid>
       <description></description>
     </item>
     
@@ -922,6 +1209,127 @@ ssc install clipgeo, replacessc install spmap, replace For more info visit the 
       <description>Created using the clipgeo and spmap packages
 Install the packages:
 ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_1/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_2/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_3/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_4/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Open Street Maps (OSM) and Stata integration</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-29_5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-29_5/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_1/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_1/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_2/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_2/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_3/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_3/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
+    </item>
+    
+    <item>
+      <title>Maps</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/maps-30_4/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/maps-30_4/</guid>
+      <description>Created using the spmap package
+Install the packages:
+ssc install spmap, replace </description>
     </item>
     
   </channel>

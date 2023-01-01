@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stacked area on StataViz by Asjad Naqvi</title>
+    <link>https://asjadnaqvi.github.io/stata-portfolio/tags/stacked-area/</link>
+    <description>Recent content in stacked area on StataViz by Asjad Naqvi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asjadnaqvi.github.io/stata-portfolio/tags/stacked-area/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked area graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
