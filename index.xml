@@ -244,6 +244,16 @@ ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.<
     </item>
     
     <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-5/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
+    <item>
       <title>Mona Lisa as Delaunay triangles</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/delaunay-3/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -465,6 +475,26 @@ ssc install circlebar, replace For more info visit the stata-circlebar GitHub pa
       <guid>https://asjadnaqvi.github.io/stata-portfolio/circlebar-4/</guid>
       <description>Created using the circlebar package
 ssc install circlebar, replace For more info visit the stata-circlebar GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-5/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-6/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
     </item>
     
     <item>
@@ -725,6 +755,26 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-7/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-8/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
       <title>Snake plot</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/random-6/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -793,6 +843,33 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/random-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heatplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-25/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hex map</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-27/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-26/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-26/</guid>
       <description></description>
     </item>
     
@@ -969,6 +1046,15 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>Random dots with color blending</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-28/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mosaic plot</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/random-18/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -1014,6 +1100,15 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
     </item>
     
     <item>
+      <title>Random graph</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-29/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Antractica</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/maps-13/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -1049,6 +1144,15 @@ ssc install treemap, replace For more info visit the stata-treemap GitHub page.<
       <description>Created using the clipgeo and spmap packages
 Install the packages:
 ssc install clipgeo, replacessc install spmap, replace For more info visit the stata-clipgeo GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>Random boxes</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/random-30/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/random-30/</guid>
+      <description></description>
     </item>
     
     <item>

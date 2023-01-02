@@ -27,6 +27,26 @@ ssc install streamplot, replace For more info visit the stata-streamplot GitHub 
     </item>
     
     <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-5/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-6/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-6/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
       <title>streamplot</title>
       <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-1/</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -42,6 +62,26 @@ ssc install streamplot, replace For more info visit the stata-streamplot GitHub 
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-2/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-7/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-7/</guid>
+      <description>Created using the streamplot package
+ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 cases</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/streamplot-8/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/streamplot-8/</guid>
       <description>Created using the streamplot package
 ssc install streamplot, replace For more info visit the stata-streamplot GitHub page.</description>
     </item>

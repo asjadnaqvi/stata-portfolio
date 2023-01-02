@@ -46,5 +46,15 @@ ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.<
 ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
     </item>
     
+    <item>
+      <title>Joyplot</title>
+      <link>https://asjadnaqvi.github.io/stata-portfolio/joyplot-5/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://asjadnaqvi.github.io/stata-portfolio/joyplot-5/</guid>
+      <description>Created using the joyplot package
+ssc install joyplot, replace For more info visit the stata-joyplot GitHub page.</description>
+    </item>
+    
   </channel>
 </rss>
