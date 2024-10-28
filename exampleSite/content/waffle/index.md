@@ -7,5 +7,5 @@ sort_order: desc
 #type: gallery
 weight: 18
 params:
-  theme: dark
+  theme: light
 ---

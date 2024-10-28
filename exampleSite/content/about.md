@@ -9,9 +9,11 @@ menu:
 
 Thank you for visiting the StataViz Portfolio! 
 
-Here are some useful links for more information:
+Here are some links for further information:
 
 [Personal website](https://asjadnaqvi.github.io/)
+
+[Stata packages on GitHub](https://github.com/asjadnaqvi)
 
 [Stata Guide on Medium](https://medium.com/the-stata-guide)
 
