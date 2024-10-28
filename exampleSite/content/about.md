@@ -7,4 +7,4 @@ menu:
     weight: 90
 ---
 
-Welcome to my collection of Stata visualizations.
+Welcome to my StataViz collection.
