@@ -1,6 +1,7 @@
 ---
 title: circlebar
 description:
+keywords: [stocks]
 menus: "main"
 sort_order: desc
 #type: gallery

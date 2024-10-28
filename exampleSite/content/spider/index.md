@@ -1,6 +1,6 @@
 ---
 title: spider
-description: [Link to package](https://github.com/asjadnaqvi/stata-spider).
+description:
 keywords: [stocks]
 menus: "main"
 featured_image: spider8_1.png

@@ -1,6 +1,7 @@
 ---
 title: ternary
 description: Tri-variate plots
+keywords: [maps]
 menus: "main"
 sort_order: desc
 #type: gallery

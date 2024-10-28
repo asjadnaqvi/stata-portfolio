@@ -1,7 +1,7 @@
 ---
 title: joyplot
 description: 
-keywords: [stocks]
+keywords: [stocks, flows]
 featured_image: joyplot6.png
 menus: "main"
 sort_order: desc

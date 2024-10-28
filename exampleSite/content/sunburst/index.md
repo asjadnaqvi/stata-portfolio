@@ -1,6 +1,6 @@
 ---
 title: sunburst
-description: Donut plots. [Link to package](https://github.com/asjadnaqvi/stata-sunburst).
+description: Donut plots.
 keywords: [stocks, hierarchy]
 menus: "main"
 sort_order: desc

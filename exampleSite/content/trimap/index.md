@@ -1,6 +1,7 @@
 ---
 title: trimap
 description: Tri-variate maps
+keywords: [maps, GIS]
 menus: "main"
 sort_order: desc
 #type: gallery

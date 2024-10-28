@@ -1,6 +1,6 @@
 ---
 title: delaunay
-description: Delaunay triangles, Voronoi tessellations, Convex Hull. [Link to package](https://github.com/asjadnaqvi/stata-delaunay).
+description: Delaunay triangles, Voronoi tessellations, Convex Hull.
 keywords: [delaunay, voronoi, convexhull]
 menus: "main"
 sort_order: desc

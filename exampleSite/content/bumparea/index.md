@@ -1,7 +1,7 @@
 ---
 title: bumparea
-description: Ribbon plots. [Link to package](https://github.com/asjadnaqvi/stata-bumparea).
-keywords: [bump, flows]
+description: Ribbon plots.
+keywords: [stocks, flows]
 menus: "main"
 sort_order: desc
 #type: gallery
