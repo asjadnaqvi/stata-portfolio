@@ -1,26 +1,26 @@
-copyright = "© Your Name"
+copyright = "© Asjad Naqvi"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "AN's Gallery"
 
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
   title = "My Gallery"
   [params.author]
-    email = "user@example.com"
+    email = "asjadnaqvi@gmail.com"
     name = "Asjad Naqvi"
   [params.socialIcons]
     facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"
-    github = "https://github.com/asjadnaqvi/gallery/"
+    github = "https://github.com/asjadnaqvi/"
     youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
-    #website = "https://example.com"
+    email = "asjadnaqvi@gmail.com"
+    #website = "https://asjadnaqvi.github.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 

@@ -7,4 +7,6 @@ menu:
     weight: 90
 ---
 
+Check check check: AN
+
 This is a demonstration site for the Hugo Gallery theme.

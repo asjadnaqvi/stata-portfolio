@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Testing a new gallery site.
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: AN's cool page
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
