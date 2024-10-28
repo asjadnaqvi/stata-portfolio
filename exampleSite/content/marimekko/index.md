@@ -1,6 +1,6 @@
 ---
 title: marimekko
-description: [Link to package](https://github.com/asjadnaqvi/stata-marimekko).
+description:
 keywords: [stocks]
 featured_image: spine6.png
 menus: "main"

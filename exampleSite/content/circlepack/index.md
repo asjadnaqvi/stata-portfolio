@@ -1,6 +1,6 @@
 ---
 title: circlepack
-description: [Link to package](https://github.com/asjadnaqvi/stata-circlepack).
+description:
 keywords: [stocks, hierarchy]
 menus: "main"
 sort_order: desc

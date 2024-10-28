@@ -1,6 +1,6 @@
 ---
 title: joyplot
-description: Ridgeline plots. [Link to package](https://github.com/asjadnaqvi/stata-joyplot).
+description: 
 keywords: [stocks]
 featured_image: joyplot6.png
 menus: "main"

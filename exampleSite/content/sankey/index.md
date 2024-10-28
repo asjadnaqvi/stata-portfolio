@@ -1,6 +1,6 @@
 ---
 title: sankey
-description: [Link to package](https://github.com/asjadnaqvi/stata-sankey).
+description:
 keywords: [stocks, flows, hierarchy]
 menus: "main"
 sort_order: desc
