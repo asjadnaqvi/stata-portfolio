@@ -1,8 +1,8 @@
 ---
-description: Testing a new gallery site.
-#lastmod: 2024-10-28
-title: StataViz Gallery
-featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
+title: StataViz Portfolio
+description: Data visualizations by Asjad Naqvi
+lastmod: 2024-10-28
+featured_image: # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
   main:

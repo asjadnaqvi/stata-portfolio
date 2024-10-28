@@ -1,6 +1,6 @@
 ---
-title: Delaunay and Voronoi
-description:
+title: delaunay
+description: Delaunay triangles, Voronoi tessellations, Convex Hull
 menus: "main"
 sort_order: desc
 #type: gallery

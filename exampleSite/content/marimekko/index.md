@@ -1,6 +1,7 @@
 ---
 title: marimekko
 description:
+featured_image: spine6.png
 menus: "main"
 sort_order: desc
 #type: gallery

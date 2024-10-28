@@ -5,12 +5,12 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "StataViz Gallery"
+title = "StataViz Portfolio"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = ""
+  title = "StataViz Portfolio"
   [params.author]
     email = "asjadnaqvi@gmail.com"
     name = "Asjad Naqvi"
@@ -18,7 +18,7 @@ title = "StataViz Gallery"
     #facebook = "https://www.facebook.com/"
     #instagram = "https://www.instagram.com/"
     github = "https://github.com/asjadnaqvi/"
-    youtube = "https://www.youtube.com/"
+    #youtube = "https://www.youtube.com/"
     website = "https://asjadnaqvi.github.com"
     twitter = "https://x.com/AsjadNaqvi"
 	bluesky = "https://bsky.app/profile/asjadnaqvi.bsky.social"
@@ -47,7 +47,7 @@ title = "StataViz Gallery"
 [menu]
   [[menu.footer]]
     name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    url = "https://github.com/asjadnaqvi/"
     weight = 3
 
 [services]
