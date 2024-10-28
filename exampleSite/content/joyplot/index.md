@@ -1,6 +1,6 @@
 ---
 title: joyplot
-description:
+description: A gallery of Ridgeline plots
 menus: "main"
 sort_order: desc
 #type: gallery
