@@ -1,10 +1,9 @@
 ---
-description: From the DuBois challenge.
+title: streamplot
+description:
 menus: "main"
 sort_order: desc
-title: DuBois
 #type: gallery
-categories: ["dubois"]
 weight: 3
 params:
   theme: dark
