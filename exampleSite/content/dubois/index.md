@@ -1,8 +1,7 @@
 ---
-description: From the Dubois challenge.
+description: From the DuBois challenge.
 featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
 menus: "main"
-sort_by: Name # Exif.Date
 sort_order: desc
 title: DuBois
 #type: gallery
