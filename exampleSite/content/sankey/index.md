@@ -1,6 +1,7 @@
 ---
 title: sankey
-description:
+description: [Link to package](https://github.com/asjadnaqvi/stata-sankey).
+keywords: [stocks, flows, hierarchy]
 menus: "main"
 sort_order: desc
 featured_image: IO_Portugal_2021_full.png

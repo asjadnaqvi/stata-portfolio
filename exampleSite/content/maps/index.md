@@ -1,6 +1,7 @@
 ---
 title: maps
-description:
+description: 
+keywords: [maps, GIS]
 menus: "main"
 featured_image: graph17.png
 sort_order: desc
