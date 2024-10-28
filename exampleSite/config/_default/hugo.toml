@@ -15,12 +15,14 @@ title = "StataViz Gallery"
     email = "asjadnaqvi@gmail.com"
     name = "Asjad Naqvi"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
     github = "https://github.com/asjadnaqvi/"
     youtube = "https://www.youtube.com/"
     website = "https://asjadnaqvi.github.com"
-    #mastodon = "https://example.com"
+    twitter = "https://x.com/AsjadNaqvi"
+	bluesky = "https://bsky.app/profile/asjadnaqvi.bsky.social"
+	#mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 
 [outputs]

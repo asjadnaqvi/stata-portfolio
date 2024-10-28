@@ -4,7 +4,7 @@ description:
 menus: "main"
 sort_order: desc
 #type: gallery
-weight: 6
+weight: 11
 params:
   theme: dark
 ---

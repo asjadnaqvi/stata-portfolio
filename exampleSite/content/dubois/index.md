@@ -5,7 +5,7 @@ sort_order: desc
 title: DuBois
 #type: gallery
 categories: ["dubois"]
-weight: 3
+weight: 20
 params:
   theme: dark
 ---
