@@ -9,7 +9,7 @@ title = "StataViz Portfolio"
 
 [params]
   defaultTheme = "dark"
-  description = ""
+  description = "Data visualization portfolio by Asjad Naqvi"
   title = "StataViz Portfolio"
   [params.author]
     email = "asjadnaqvi@gmail.com"
@@ -19,7 +19,7 @@ title = "StataViz Portfolio"
     #instagram = "https://www.instagram.com/"
     github = "https://github.com/asjadnaqvi/"
     #youtube = "https://www.youtube.com/"
-    website = "https://asjadnaqvi.github.com"
+    website = "https://asjadnaqvi.github.io/"
     twitter = "https://x.com/AsjadNaqvi"
 	bluesky = "https://bsky.app/profile/asjadnaqvi.bsky.social"
 	linkedin = "https://www.linkedin.com/in/asjadnaqvi/"

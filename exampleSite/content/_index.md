@@ -1,7 +1,7 @@
 ---
 title: StataViz Portfolio
-description: by Asjad Naqvi
-lastmod: 2024-10-28
+description: Data visualization portfolio by Asjad Naqvi.
+lastmod: 2026-05-26
 featured_image: # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:

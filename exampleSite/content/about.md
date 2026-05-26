@@ -7,7 +7,7 @@ menu:
     weight: 90
 ---
 
-Thank you for visiting the StataViz Portfolio! 
+Thank you for visiting the StataViz Portfolio!
 
 Here are some links for further information:
 
