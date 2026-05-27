@@ -150,7 +150,7 @@ hgroup {
 
 section.galleries {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(Min(100%, 18rem), 1fr));
   gap: 2rem 1.5rem;
   max-width: 1280px;
 }
