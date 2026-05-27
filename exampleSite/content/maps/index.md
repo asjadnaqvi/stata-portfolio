@@ -1,7 +1,6 @@
 ---
 title: maps
-description: 
-keywords: [maps, GIS]
+description: Geographic and choropleth map visualizations.
 menus: "main"
 featured_image: graph17.png
 sort_order: desc

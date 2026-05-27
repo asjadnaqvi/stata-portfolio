@@ -1,11 +1,10 @@
 ---
 title: streamplot
-description:
-keywords: [stocks, flows]
+description: Streamgraph and flowing area chart designs.
 menus: "main"
 sort_order: desc
 #type: gallery
-weight: 15
+weight: 17
 params:
   theme: light
 ---

@@ -1,6 +1,6 @@
 ---
 title: bimap
-description: Bi-variate maps.
+description: Bi-variate thematic maps.
 keywords: [maps, GIS]
 menus: "main"
 featured_image: map_dependency_bimap.png

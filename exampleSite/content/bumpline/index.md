@@ -1,7 +1,6 @@
 ---
 title: bumpline
-description:
-menus: "main"
+description: Bump line charts for rank trajectories.
 keywords: [stocks, flows]
 sort_order: desc
 #type: gallery

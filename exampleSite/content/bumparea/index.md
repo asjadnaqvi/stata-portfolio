@@ -1,6 +1,6 @@
 ---
 title: bumparea
-description: Ribbon plots.
+description: Bump area charts for ranking changes over time.
 keywords: [stocks, flows]
 menus: "main"
 sort_order: desc

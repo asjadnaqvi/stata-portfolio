@@ -1,7 +1,6 @@
 ---
 title: marimekko
-description:
-keywords: [stocks]
+description: Marimekko and mosaic charts for part-to-whole comparisons.
 featured_image: spine6.png
 menus: "main"
 sort_order: desc

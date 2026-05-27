@@ -1,13 +1,12 @@
 ---
 title: sankey
-description:
-keywords: [stocks, flows, hierarchy]
+description: Sankey diagrams for flow and pathway analysis.
 menus: "main"
 sort_order: desc
 featured_image: IO_Portugal_2021_full.png
 categories: ["sankey"]
 #type: gallery
-weight: 13
+weight: 15
 params:
   theme: dark
 ---

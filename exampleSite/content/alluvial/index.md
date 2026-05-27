@@ -1,8 +1,7 @@
 ---
 title: alluvial
 featured_image: alluvial7.png
-description:
-keywords: [stocks, flow, hierarchy]
+description: Alluvial and flow-based composition charts.
 menus: "main"
 sort_order: desc
 #type: gallery

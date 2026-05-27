@@ -1,11 +1,10 @@
 ---
 title: polarspike
 keywords: [stocks]
-description:
-menus: "main"
+description: Radial spike and lollipop chart variations.
 sort_order: desc
 #type: gallery
-weight: 12
+weight: 13
 params:
   theme: dark
 ---

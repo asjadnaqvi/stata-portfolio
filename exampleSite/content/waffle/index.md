@@ -1,11 +1,10 @@
 ---
 title: waffle
-description:
-keywords: [stocks]
+description: Waffle charts and grid-based part-to-whole visuals.
 menus: "main"
 sort_order: desc
 #type: gallery
-weight: 18
+weight: 23
 params:
   theme: light
 ---

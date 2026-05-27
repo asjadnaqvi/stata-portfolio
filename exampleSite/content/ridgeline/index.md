@@ -6,7 +6,7 @@ featured_image: 30daychartchallenge_day29.png
 menus: "main"
 sort_order: desc
 #type: gallery
-weight: 9
+weight: 14
 params:
   theme: dark
 ---

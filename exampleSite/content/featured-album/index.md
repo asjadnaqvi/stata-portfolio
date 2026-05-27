@@ -4,5 +4,5 @@ title: Featured
 featured: false
 featured_image: energymap2024.png
 private: true # do not show in list, only as feature
-description:
+description: Featured showcase gallery highlighted on the homepage.
 ---
